@@ -1,6 +1,10 @@
 team: Leopards
 
+<<<<<<< HEAD
 manager: Nicholas
+=======
+manager: Melissa
+>>>>>>> 00f50c7 (Edit leopards)
 
 members:
 - Linda
